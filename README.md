@@ -23,10 +23,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other    3 hrs 56 mins   █████████████████▓░░░░░░░   71.21 % 
-Go       1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.83 % 
-CSV      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-JSON     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Python   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Python       14 hrs 34 mins  ███████████████████░░░░░░   75.97 % 
+Other        4 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+CSV          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 <!--END_SECTION:waka-->
