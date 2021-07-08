@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Other    3 hrs 14 mins   ████████████████████░░░░░   80.18 % 
-Python   40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
-CSV      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other    1 hr 49 mins    █████████████████▒░░░░░░░   69.90 % 
+Python   40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.03 % 
+CSV      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 ```
 <!--END_SECTION:waka-->
