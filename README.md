@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C   33 mins         █████████████████████████   100.00 % 
+C       33 mins         ██████████████████░░░░░░░   72.05 % 
+Java    12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.37 % 
 ```
 <!--END_SECTION:waka-->
