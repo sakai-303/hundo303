@@ -47,8 +47,8 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-Python       49 mins         ██████████████████████▓░░   90.82 % 
-Markdown     4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Python       2 hrs 32 mins   ████████████████████████▒   96.84 % 
+Markdown     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 ```
 <!--END_SECTION:waka-->
 
