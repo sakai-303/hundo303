@@ -47,7 +47,9 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-Python     2 hrs 35 mins   █████████████████████████   99.67 % 
+Python             2 hrs 56 mins   ███████████████████████░░   91.56 % 
+Markdown           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Jupyter Notebook   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 <!--END_SECTION:waka-->
 
