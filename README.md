@@ -47,11 +47,11 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-TypeScript         11 hrs 31 mins  ██████████████████░░░░░░░   72.32 % 
-Jupyter Notebook   1 hr 37 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-JavaScript         1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Vue.js             30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-JSON               27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+TypeScript         9 hrs 28 mins   █████████████████▓░░░░░░░   71.21 % 
+Jupyter Notebook   1 hr 49 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+JavaScript         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Python             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Java               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 <!--END_SECTION:waka-->
 
