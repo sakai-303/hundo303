@@ -47,7 +47,7 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-V   39 mins         █████████████████████████   100.00 % 
+JavaScript   8 mins          ████████████████████████▓   99.28 % 
 ```
 <!--END_SECTION:waka-->
 
