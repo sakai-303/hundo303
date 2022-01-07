@@ -47,7 +47,7 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 mins          ████████████████████████▓   99.28 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
