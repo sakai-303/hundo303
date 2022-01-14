@@ -47,7 +47,7 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
