@@ -40,8 +40,7 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-V       3 hrs 10 mins   █████████████████▓░░░░░░░   71.14 % 
-C       1 hr 17 mins    ███████▒░░░░░░░░░░░░░░░░░   28.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
