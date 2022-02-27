@@ -40,7 +40,8 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 ```text
-AUTO_DETECTED      4 mins          █████████████████████▒░░░   85.40 % 
+Jupyter Notebook   27 mins         ██████████████████▒░░░░░░   73.67 % 
+AUTO_DETECTED      9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.33 % 
 ```
 <!--END_SECTION:waka-->
 
