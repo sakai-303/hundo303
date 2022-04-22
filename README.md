@@ -41,8 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   13 mins         █████████████████████████   99.91 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
