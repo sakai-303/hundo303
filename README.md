@@ -41,9 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python           2 hrs 37 mins   ████████████████████████░   96.45 %
-ca65 assembler   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Python             1 hr 18 mins    ██████████████████▓░░░░░░   74.10 %
+ca65 assembler     24 mins         ██████░░░░░░░░░░░░░░░░░░░   23.61 %
+Other              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
