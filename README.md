@@ -41,10 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             1 hr 12 mins    ████████▓░░░░░░░░░░░░░░░░   34.56 %
-Jupyter Notebook   1 hr 8 mins     ████████▒░░░░░░░░░░░░░░░░   32.96 %
-Text               1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   31.28 %
-Other              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Jupyter Notebook   2 hrs 27 mins   ████████████▒░░░░░░░░░░░░   48.74 %
+Python             1 hr 30 mins    ███████▒░░░░░░░░░░░░░░░░░   29.68 %
+Text               1 hr 5 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Git Config         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
