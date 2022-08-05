@@ -41,10 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text               6 hrs 21 mins   ████████████████░░░░░░░░░   64.49 %
-Jupyter Notebook   1 hr 24 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-ca65 assembler     1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Other              43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Text               10 hrs 34 mins  █████████████████████▒░░░   84.87 %
+ca65 assembler     1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Other              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
