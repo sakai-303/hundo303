@@ -41,9 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Text               10 hrs 34 mins  █████████████████████▒░░░   84.87 %
-ca65 assembler     1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Other              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Text               10 hrs 34 mins  █████████████████████▒░░░   85.59 %
+ca65 assembler     1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Other              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
