@@ -41,8 +41,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   6 mins          █████████████████████▓░░░   86.94 %
-Bash     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+Jupyter Notebook   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
