@@ -41,7 +41,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter Notebook   4 mins          █████████████████████████   100.00 %
+Jupyter Notebook   4 mins          ████████████████▒░░░░░░░░   65.91 %
+Markdown           1 min           ██████░░░░░░░░░░░░░░░░░░░   23.90 %
+Other              0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
 ```
 
 <!--END_SECTION:waka-->
