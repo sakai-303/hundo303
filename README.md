@@ -40,7 +40,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   35 mins         █████████████████████████   100.00 %
+Python   35 mins         █████████████████████▒░░░   85.65 %
+Other    6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
 ```
 
 <!--END_SECTION:waka-->
