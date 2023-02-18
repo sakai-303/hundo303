@@ -40,8 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TeX    6 hrs 32 mins   █████████████████████████   99.99 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
