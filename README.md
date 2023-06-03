@@ -39,7 +39,7 @@
 ## 直近1週間の開発時間
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
